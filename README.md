@@ -21,6 +21,9 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## Profile stats:
+![d](https://visitor-badge.laobi.icu/badge?page_id=NameeshaK)
+
 ### You can reach out to me at:
 <a href="https://www.linkedin.com/in/nameesha-k/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="55px" height="50px"></a>
 <a href="https://github.com/NameeshaK"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="55px" height="50px"></a>
